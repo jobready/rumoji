@@ -226,7 +226,6 @@ module Rumoji
       self.new("👨‍👨‍👦", [:"man-man-boy"], "MAN MAN BOY"),
       self.new("👨‍👨‍👦‍👦", [:"man-man-boy-boy"], "MAN MAN BOY BOY"),
       self.new("👨‍👨‍👧‍👦", [:"man-man-girl-boy"], "MAN MAN GIRL BOY"),
-      self.new(" ", [:"man-man-girl-girl"], "MAN MAN GIRL GIRL"),
       self.new("👨‍👨‍👧", [:"man-man-girl"], "MAN MAN GIRL"),
       self.new("👨‍👩‍👧‍👧", [:"man-woman-girl-girl"], "MAN WOMAN GIRL GIRL"),
       self.new("👨‍👩‍👦‍👦", [:"man-woman-boy-boy"], "MAN WOMAN BOY BOY"),
